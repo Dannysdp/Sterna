@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "7f9c1caa394ddb3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b448ed8cdbf727c",
+        "type": "tabs",
+        "dimension": 21.246648793565683,
+        "children": [
+          {
+            "id": "40160da918ef99e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lugares/Lugares.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "f622ae679472c00d"
+          }
+        ]
+      },
+      {
+        "id": "1d06d5636e71a800",
+        "type": "tabs",
+        "dimension": 78.75335120643432,
+        "children": [
+          {
+            "id": "90d6f9a2d57c143d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Lugares/Lugares.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 5,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "f622ae679472c00d"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e986485c26c08d01",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4cf88f44be10d49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f4739a57969a9f2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e721a1ca00d3991c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#GuillermoGoyenola",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9fccc816ac4b2e0d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "106343bfc8274b04",
+    "type": "split",
+    "children": [
+      {
+        "id": "146da040a04fc5fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5424b10ac1940aac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lugares/Lugares.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3e79b8a66d1d9ea7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lugares/Lugares.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a13344c90f5ead0a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "541e4383de673ea8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lugares/Lugares.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "90d6f9a2d57c143d",
+  "lastOpenFiles": [
+    "PAPERS/assessing-the-origin-of-a-massive-cyanobacterial-bloom-in-the-rio-de-la-plata-2019-towards-an-early-warning-system-water-research-volume-181-15-august-2020-115944.md",
+    "PAPERS/Nitrogen and euphotic mixing zone ratio explain   cyanobacterial occurrence in small subtropical man-made lakes (Uruguay).md",
+    "Lugares/Lugares.md",
+    "PAPERS/a-reply-to-relevant-factors-in-the-eutrophication-of-the-uruguay-river-and-the-rio-negro-science-of-the-total-environment-volume-818-20-april-2022-151854.md",
+    "PAPERS/cylindrospermopsis-raciborskii-cyanobacteria-extends-its-distribution-to-latitude-3453s-taxonomical-and-ecological-features-in-uruguayan-eutrophic-lakes-pan-american-journal-of-aquatic-sciences-32-2008-pp-142-151.md",
+    "PAPERS/using-models-to-inform-water-policy-in-a-changing-climate-comparing-the-australian-and-uruguayan-experiences-marine-and-freshwater-research-722-2020-pp-275-287.md",
+    "PAPERS/cianobacterias-y-cianotoxinas-en-ecosistemas-limnicos-de-uruguay.md",
+    "Lugares/Represa_Salto_Grande.md",
+    "Lugares/Rio_de_la_Plata.md",
+    "Lugares/Laguna_Sauce.md"
+  ]
+}
