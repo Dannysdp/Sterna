@@ -1,4 +1,0 @@
-## Uruguay
-[[Laguna sauce]]
-[[RepresaSaltoGrande]]
-
