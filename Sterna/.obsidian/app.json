@@ -5,5 +5,7 @@
     "en-GB",
     "es"
   ],
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
+  "showUnsupportedFiles": true
 }

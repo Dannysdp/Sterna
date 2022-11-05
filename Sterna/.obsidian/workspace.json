@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9b4a1e8b1cf0a1da",
+        "id": "6e7de2d2f5ca94e5",
         "type": "tabs",
         "children": [
           {
-            "id": "017a623a74ebb0cb",
+            "id": "bf98b624d87e95da",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#cyanobacteria",
+                "query": "sterna",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -61,13 +61,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "106343bfc8274b04",
@@ -130,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e721a1ca00d3991c",
+  "active": "bf98b624d87e95da",
   "lastOpenFiles": [
-    "PAPERS/invasion-of-ceratium-furcoides-in-subtro.md",
-    "PLACES/River_Uruguay.md",
-    "PAPERS/planktic-cyanobacteria-in-the-lower-urug.md",
-    "PLACES/Country.md",
+    "PAPERS/cyanobacterial-inoculation-and-nitrogen-.md",
     "PLACES/Uruguay.md",
-    "PAPERS/dolichospermum-uruguayense-sp-nov-a-plan.md",
     "PLACES/Represa_Salto_Grande.md",
+    "PLACES/Country.md",
+    "PLACES/River_Uruguay.md",
+    "PLACES/uruguay_river.md",
+    "PLACES/la_plata_river.md",
     "PLACES/Laguna_Sauce.md",
-    "sterna.md",
-    "Lugares/Laguna sauce.md"
+    "PLACES/orla_river.md",
+    "PAPERS/rapid-freshwater-discharge-on-the-coasta.md"
   ]
 }

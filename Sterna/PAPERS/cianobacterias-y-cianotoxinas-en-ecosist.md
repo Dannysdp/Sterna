@@ -1,7 +1,7 @@
 # Cianobacterias y cianotoxinas
 en ecosistemas límnicos de Uruguay
 ## Authors
-#Bonilla #Sylvia #Haakonsson #Signe #Somma #Andrea #Gravier #Ana #Britos #Anamar #Vidal #Leticia #De_León #Lizet #Brena #Beatriz #M #Pírez #Macarena #Piccini #Claudia #Martínezdela_Escalera #Gabriela #Chalar #Guillermo #González_Piana #Mauricio #Martigani #Fátima #Aubriot #Luis 
+#Bonilla, #Sylvia, #Haakonsson, #Signe, #Somma, #Andrea, #Gravier, #Ana, #Britos, #Anamar, #Vidal, #Leticia, #De_León, #Lizet, #Brena, #Beatriz, #M, #Pírez, #Macarena, #Piccini, #Claudia, #Martínezdela_Escalera, #Gabriela, #Chalar, #Guillermo, #González_Piana, #Mauricio, #Martigani, #Fátima, #Aubriot, #Luis, 
 ## DOI
  
 ## Description
@@ -17,4 +17,4 @@ Mundial de la Salud para aguas recreacionales. Además, se analizaron muestras d
 Se generó información básica que podrá ser útil para programas de monitoreo nacionales e investigación.
 
 ## Tags/Key words
-#calidad_de_agua #fitoplancton #eutrofización #floraciones #toxicidad #monitoreo_ambiental_ 
+[[../TAGS/calidad_de_agua]], [[../TAGS/fitoplancton]], [[../TAGS/eutrofización]], [[../TAGS/floraciones]], [[../TAGS/toxicidad]], [[../TAGS/monitoreo_ambiental_]], 

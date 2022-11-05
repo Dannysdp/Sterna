@@ -1,3 +1,5 @@
-## [[Uruguay]]
+## [[south_america]]
+[[Uruguay]]
+[[Argentina]]
 
 

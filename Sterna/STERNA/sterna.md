@@ -8,7 +8,7 @@ La organización de los links sera de la siguiente manera
 Tipo de nodo -> Categoría -> tema/lugar
 El formato de los diferentes tipos de materiales son:
 
-### Papers
+### [[Papers]]
 	# Titulo
 	## Autores
 		#Nombre_Apellido
