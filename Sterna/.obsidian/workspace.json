@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2b448ed8cdbf727c",
+        "id": "9b4a1e8b1cf0a1da",
         "type": "tabs",
         "children": [
           {
-            "id": "413c7cf3ea2953dd",
+            "id": "017a623a74ebb0cb",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#uruguay_river",
+                "query": "tag:#cyanobacteria",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -61,11 +61,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "106343bfc8274b04",
@@ -128,8 +130,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "413c7cf3ea2953dd",
+  "active": "e721a1ca00d3991c",
   "lastOpenFiles": [
+    "PAPERS/invasion-of-ceratium-furcoides-in-subtro.md",
     "PLACES/River_Uruguay.md",
     "PAPERS/planktic-cyanobacteria-in-the-lower-urug.md",
     "PLACES/Country.md",
@@ -138,7 +141,6 @@
     "PLACES/Represa_Salto_Grande.md",
     "PLACES/Laguna_Sauce.md",
     "sterna.md",
-    "Lugares/Laguna sauce.md",
-    "Papers.md"
+    "Lugares/Laguna sauce.md"
   ]
 }
